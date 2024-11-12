@@ -55,7 +55,7 @@ def main():
         "C:/Users/User/Desktop/UDG_old_pc/UDG/Subjects/MISSSSSA/Atlas_part2/test-set/testing-images/1128.nii.gz"
 
     ]
-    
+  
     # Constant moving image
     moving_image = r"C:\Users\User\Desktop\UDG_old_pc\UDG\Subjects\MISSSSSA\Atlas_part2\MNITemplateAtlas\template.nii\template.nii".replace("\\", "/")
 
